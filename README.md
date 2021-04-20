@@ -1,9 +1,9 @@
 Hi, I'm Leonard 👋
 
-🔭 I’m currently working on UserBot as Web Developer
-🌱 I’m currently learning Java, webdevelopment and network security 
-💬 I can work with HTML, CSS and a bit of Java and PHP
-📫 How to reach me: Leonard#0001 (Discord)
+-🔭 I’m currently working on UserBot as Web Developer
+-🌱 I’m currently learning Java, webdevelopment and network security 
+-💬 I can work with HTML, CSS and a bit of Java and PHP
+-📫 How to reach me: Leonard#0001 (Discord)
 
 <!--
 **caneycode24/caneycode24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
