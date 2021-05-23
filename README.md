@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Leonard
-- 🔭 I’m currently working on UserBot as Web Developer
+- 🔭 I’m currently working on UserBot
 - 🌱 I’m currently learning Java, webdevelopment and network security 
 - 💬 I can work with HTML, CSS, JavaScript and a bit of Java and PHP
 - 📫 How to reach me: Leonard#0425 (Discord)
