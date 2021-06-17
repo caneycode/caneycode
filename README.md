@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Leonard
 - 🔭 I’m currently working on UserBot
-- 🌱 I’m currently learning webdevelopment and network security 
+- 🌱 I’m currently learning about web development and network security 
 - 💬 I can work with HTML, CSS, JavaScript and a bit of Java and PHP
 - 📫 How to reach me: Leonard#0001 (Discord)
 
