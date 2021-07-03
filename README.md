@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Leonard
 - 🔭 I’m currently working on UserBot
-- 🌱 I’m currently learning about web development and network security 
-- 💬 I can work with HTML, CSS, JavaScript and a bit of Java and PHP
+- 🌱 I’m currently learning about Vue.js and network security
+- 💬 I can work with HTML, CSS, JavaScript and a bit of Java
 - 📫 How to reach me: Leonard#3334 (Discord)
 
 <!--
-**caneycode24/caneycode24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**caneycode/caneycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
