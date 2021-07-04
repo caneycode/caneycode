@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Leonard
 - 🔭 I’m currently working on UserBot
-- 🌱 I’m currently learning about Vue.js and network security
+- 🌱 I’m currently learning Vue.js and network security
 - 💬 I can work with HTML, CSS, JavaScript and a bit of Java
 - 📫 How to reach me: Leonard#3334 (Discord)
 
