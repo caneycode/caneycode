@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on UserBot
 - 🌱 I’m currently learning Vue.js and network security
 - 💬 I can work with HTML, CSS, JavaScript and a bit of Java
-- 📫 How to reach me: Leonard#0005 (Discord)
+- 📫 How to reach me: Leonard#0001 (Discord)
 
 ### Languages and Tools:
 
