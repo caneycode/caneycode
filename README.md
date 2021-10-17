@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on UserBot
 - 🌱 I’m currently learning React.js
 - 💬 I can work with HTML, CSS, JavaScript and a bit of Java
-- 📫 How to reach me: Leonard#0001 (Discord)
+- 📫 How to reach me: Leonard#3580 (Discord)
 
 ### Languages and Tools:
 
