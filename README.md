@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Leonard</h1>
 <h4 align="center">Frontend developer from Germany</h3>
 
-🔭 Currently working on [UserBot](https://discord.userstudios.org)
+🔋 Currently working on [UserBot](https://discord.userstudios.org)
 
 <h4 align="left">Languages and Tools:</h3>
 
