@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Leonard</h1>
-<h3 align="center">Frontend developer from Germany</h3>
+<h3 align="center">Webdeveloper from Germany</h3>
 
 🔋 Currently working on [UserBot](https://discord.userstudios.org)
 
